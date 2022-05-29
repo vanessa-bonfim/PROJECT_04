@@ -106,7 +106,7 @@ padding top and bottom (y)
 
 /* other helpers */
 .border-red-1 {
-    border: solid 1px red;
+    border: solid 2px red;
     min-height: 15px;
 }
 

@@ -19,3 +19,19 @@ div.animated-line {
 nav ul li:hover div.animated-line {
     width: 100%;
 }
+
+.animated-bg-sign-up, .animated-bg-cancel, .animated-bg-ok {
+    transition: background-color ease 300ms;
+}
+
+.animated-bg-sign-up:hover {
+    background-color:#6a7bdf;
+}
+
+.animated-bg-cancel:hover {
+    background-color: #f5f2f2;
+}
+
+.animated-bg-ok:hover {
+    background-color: #6a7bdf;
+}
